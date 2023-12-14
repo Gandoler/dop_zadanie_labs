@@ -4,7 +4,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.Random;
-
+////Users/gl.krutoimail.ru/Desktop/bonus/data.xlsx
 public class ExcelFileGenerator {
     public static void main(String[] args) {
         Workbook workbook = new XSSFWorkbook(); // Создаем новую книгу Excel
